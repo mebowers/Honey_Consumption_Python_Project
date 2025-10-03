@@ -7,11 +7,9 @@ This is my first of four projects for the Machine Learning course with New York 
 ## Data:
 I used two data sets from Kaggle.
 
-(US Honey Production 1995-2021) 
-[https://www.kaggle.com/datasets/mohitpoudel/us-honey-production-19952021/data]
+[US Honey Production 1995-2021](https://www.kaggle.com/datasets/mohitpoudel/us-honey-production-19952021/data)
 
-(Honey Production in the USA (1998-2012))
-[https://www.kaggle.com/datasets/jessicali9530/honey-production/data]
+[Honey Production in the USA (1998-2012)](https://www.kaggle.com/datasets/jessicali9530/honey-production/data)
 
 
 ## Project:
@@ -23,6 +21,6 @@ The 1998-2012 data set addressed all the problems encountered in the initial dat
 
 ## Author:
 
-(Blog post)[https://nycdatascience.com/blog/student-works/us-honey-production-analysis-with-python-1998-2012/]
+[Blog post](https://nycdatascience.com/blog/student-works/us-honey-production-analysis-with-python-1998-2012/)
 
 LinkedIn: 
